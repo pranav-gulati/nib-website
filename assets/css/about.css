@@ -70,6 +70,9 @@ body {
     margin-top: 25px;
 }
 
+.value-header{
+    font-size: 20px;
+}
 .value {
     width: 45%;
     display:inline-block;
